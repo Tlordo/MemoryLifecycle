@@ -1,0 +1,14 @@
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\bin\Debug\net10.0\MemoryLifecycle.exe
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\bin\Debug\net10.0\MemoryLifecycle.deps.json
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\bin\Debug\net10.0\MemoryLifecycle.runtimeconfig.json
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\bin\Debug\net10.0\MemoryLifecycle.dll
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\bin\Debug\net10.0\MemoryLifecycle.pdb
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.GeneratedMSBuildEditorConfig.editorconfig
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.AssemblyInfoInputs.cache
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.AssemblyInfo.cs
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.csproj.CoreCompileInputs.cache
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.dll
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\refint\MemoryLifecycle.dll
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.pdb
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\MemoryLifecycle.genruntimeconfig.cache
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Debug\net10.0\ref\MemoryLifecycle.dll
