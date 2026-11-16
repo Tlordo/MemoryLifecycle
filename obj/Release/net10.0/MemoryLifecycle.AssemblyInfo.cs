@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemoryLifecycle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6a396f0ac59a87886bf3124158467d30cc713b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemoryLifecycle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemoryLifecycle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

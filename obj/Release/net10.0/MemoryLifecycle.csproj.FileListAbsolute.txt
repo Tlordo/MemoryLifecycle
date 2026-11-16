@@ -12,3 +12,4 @@ D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Release\n
 D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Release\net10.0\MemoryLifecycle.pdb
 D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Release\net10.0\MemoryLifecycle.genruntimeconfig.cache
 D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Release\net10.0\ref\MemoryLifecycle.dll
+D:\claude\MemoryLifecycle\MemoryLifecycle-main\src\MemoryLifecycle\obj\Release\net10.0\MemoryLifecycle.sourcelink.json

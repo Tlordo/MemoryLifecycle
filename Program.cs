@@ -13,9 +13,16 @@ switch (command)
         ResourceDemos.RunLogFile();
         break;
 
+    case "dispose":
+        await DisposeDemos.RunSyncAndAsyncDemoAsync();
+        await DisposeDemos.RunFileBufferDemoAsync();
+        break;
+
     case "all":
         PressureScenarios.RunAll();
         ResourceDemos.RunLogFile();
+        await DisposeDemos.RunSyncAndAsyncDemoAsync();
+        await DisposeDemos.RunFileBufferDemoAsync();
         break;
 
     default:
@@ -23,6 +30,7 @@ switch (command)
         Console.WriteLine("Команды:");
         Console.WriteLine("  gc-pressure  КТ №40: сценарии давления на GC");
         Console.WriteLine("  logfile      КТ, вариант 2: LogFile и Dispose-паттерн");
+        Console.WriteLine("  dispose      КТ №43: DatabaseConnection, FileBuffer, IAsyncDisposable");
         Console.WriteLine("  all          все реализованные демонстрации");
         break;
 }

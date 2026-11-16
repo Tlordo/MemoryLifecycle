@@ -1,5 +1,5 @@
 using System.Runtime.CompilerServices;
-using MemoryLifecycle.Resurces;
+using MemoryLifecycle.Resources;
 
 namespace MemoryLifecycle.Demos;
 

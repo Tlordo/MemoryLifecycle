@@ -1,4 +1,4 @@
-namespace MemoryLifecycle.Resurces;
+namespace MemoryLifecycle.Resources;
 
 /// <summary>
 /// КТ, вариант 2. Лог-файл: обёртка над StreamWriter, реализующая
